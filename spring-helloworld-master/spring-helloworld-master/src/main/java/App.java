@@ -15,6 +15,6 @@ public class App {
         System.out.println(bean3.getMessage());
 
         System.out.println((bean==bean1) + " Хелоуворд сраный");
-        System.out.println((bean2==bean3) + " Коты кбучие");
+        System.out.println((bean2==bean3) + " Коты ебучие");
     }
 }
